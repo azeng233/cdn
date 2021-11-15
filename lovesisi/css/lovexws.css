@@ -234,21 +234,21 @@ img {
 }
 
 /* 两只XHJ一样的猪 */
-.xhjIsPig .pig1,
+.xwsIsPig .pig1,
 .pig2 {
     position: fixed;
     z-index: 99;
     width: 150px;
 }
 
-.xhjIsPig .pig1 {
+.xwsIsPig .pig1 {
     right: -10px;
     bottom: 0;
     transform: rotate(-25deg);
     animation: xhjPigRun1 2s infinite;
 }
 
-.xhjIsPig .pig2 {
+.xwsIsPig .pig2 {
     left: -30px;
     bottom: 0;
     transform: scaleX(-1) rotate(-90deg);
@@ -393,12 +393,12 @@ img {
         height: 560px;
     }
 
-    .xhjIsPig .pig1,
+    .xwsIsPig .pig1,
     .pig2 {
         width: 130px;
     }
 
-    .xhjIsPig .pig2 {
+    .xwsIsPig .pig2 {
         left: -25px;
     }
 }
@@ -497,12 +497,12 @@ img {
         height: 560px;
     }
 
-    .xhjIsPig .pig1,
+    .xwsIsPig .pig1,
     .pig2 {
         width: 80px;
     }
 
-    .xhjIsPig .pig2 {
+    .xwsIsPig .pig2 {
         left: -15px;
     }
 }
